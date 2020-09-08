@@ -1,5 +1,5 @@
 // Time Complexity - O(N)
-// Space Complexity - O(N)
+// Space Complexity - O(U) U - Unique characters in pattern string
 
 class Solution {
 	public boolean wordPattern(String pattern, String str) {
